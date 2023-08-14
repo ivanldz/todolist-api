@@ -24,10 +24,6 @@ You can also run the API using Docker and Docker Compose. Simply use the provide
 - **Update Task:** Update task details or attached image.
 - **Delete Task:** Delete a task.
 
-## Uploading Images 📷
-
-When creating or updating a task, you can attach an image to provide additional context for the task. Use the [FormData](https://fastapi.tiangolo.com/tutorial/request-forms-and-files/#formdata) feature in the API to send the image.
-
 ## Contributing 🤝
 
 Contributions are welcome! If you'd like to contribute to this project, feel free to open issues and pull requests.
